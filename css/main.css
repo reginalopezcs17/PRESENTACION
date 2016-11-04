@@ -1,0 +1,22 @@
+*{/* el * significa aplicar estas reglas a todos los elemetos*/
+  font-family: sans-serif;
+  color: tomato
+  color:rgb(255, 0, 0); /* red, green , bule ...los colores se pueden apuntar en numeros
+  sexagesimales las letras ( de A a F son  el tono de obscuro a claro y ) */
+  color: rgba(255, 0, 0, 0.5);/* la a significa alfa y represtenta la transparencia*/
+}
+
+.cosas_orange{
+  color: darkorange;
+}
+li{
+  font-size: 2em;
+}
+li{
+  color: tomato;
+}
+#nombre{
+  font-style: oblique;
+}
+/*selectores compuestos// descendientes, hijo, sibling, combinaciones de selectores
+simples */
